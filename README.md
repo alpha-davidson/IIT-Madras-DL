@@ -6,7 +6,6 @@
 
 Lecture materials and activities for Michelle Kuchera's lectures at the HSF-India Scientific Computing Workshop. November 23-27, 2025.
 
-- [Course page]([https://sites.google.com/psfc.mit.edu/cps-fr-2024/home](https://sites.google.com/psfc.mit.edu/cps-fr2025/home))
 - [Course Schedule](https://indico.cern.ch/event/1580062/timetable/)
 
 ## Outline
