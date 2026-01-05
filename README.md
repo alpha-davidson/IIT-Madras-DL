@@ -6,7 +6,7 @@
 
 Lecture materials and activities for Michelle Kuchera's lectures at the HSF-India Scientific Computing Workshop. January 5-9, 2026.
 
-- [Course Schedule](https://indico.cern.ch/event/1580062/timetable/)
+- [Course Schedule](https://indico.cern.ch/event/1580090/timetable/)
 
 ## Outline
 - Lecture 1: Neural Networks and Deep Learning
