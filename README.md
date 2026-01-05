@@ -1,5 +1,5 @@
 # HSF-India Scientific Computing Workshop
-## IIT Guwahati
+## IIT Madras
 ## Deep Learning materials
 
 
