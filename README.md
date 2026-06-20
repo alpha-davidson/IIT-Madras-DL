@@ -13,4 +13,4 @@ Lecture materials and activities for Michelle Kuchera's lectures at the HSF-Indi
 - Lecture 2: Discrete Convolutions, Attention, and Neural Networks
 - Lecture 3: Latent Spaces and Unsupervised Learning
 - Lecture 4 (Optional): Generative Models: Variational Autoencoders, Normalizing Flows, Implicit Quantile Networks
-- Supplemental: Hot topics in ML: transformers, symmetry euivariant neural networks
+- Supplemental: Hot topics in ML: transformers, symmetry equivariant neural networks
